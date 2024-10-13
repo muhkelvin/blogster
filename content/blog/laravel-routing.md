@@ -1,7 +1,7 @@
 ---
 external: false
 title: Laravel - Dasar Routing
-description: Laravel introduction
+description: Pelajari dasar-dasar routing di Laravel, termasuk cara membuat rute dasar, parameter dinamis, named routes, route groups, serta dukungan metode HTTP (GET, POST, PUT, DELETE) untuk membangun aplikasi web yang efisien dan terstruktur.
 date: 2024-10-14
 ---
 
