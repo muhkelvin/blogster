@@ -29,7 +29,7 @@ Rute di atas akan merespons permintaan GET ke URL ``/home`` dengan mengembalikan
 
 Selain itu, kita dapat membuat rute dengan berbagai metode HTTP seperti POST, PUT, DELETE, dan lain sebagainya. Hal ini memungkinkan kita untuk mengelola berbagai tipe permintaan sesuai dengan kebutuhan aplikasi. Fleksibilitas dalam mendefinisikan rute ini membuat Laravel menjadi salah satu framework PHP yang paling diminati oleh pengembang.
 
-2.3 Parameter pada Rute
+## 2.3 Parameter pada Rute
 
 Untuk menangani skenario yang lebih dinamis, Laravel mendukung penggunaan parameter pada rute. Misalnya, jika kita ingin membuat URL yang bisa menangani data dinamis seperti ID pengguna atau nama produk, kita bisa menggunakan parameter pada rute. Contoh:
 ```bash
