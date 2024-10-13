@@ -1,6 +1,6 @@
 ---
 external: false
-title: Laravel - Dasar-Dasar Routing di Laravel: Panduan Lengkap
+title: Laravel - Dasar Routing
 description: Laravel introduction
 date: 2024-10-14
 ---
