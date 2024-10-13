@@ -26,10 +26,9 @@ Untuk membuat controller di Laravel, kita dapat menggunakan perintah artisan, ya
 
 Laravel menyediakan perintah `make:controller` yang memudahkan kita dalam membuat controller baru. Jalankan perintah berikut di terminal:
 
-```bash
 Berikut ini contoh kode untuk membuat controller di Laravel:
+```bash
 
-```php
 <?php
 
 namespace App\Http\Controllers;
