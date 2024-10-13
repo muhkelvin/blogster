@@ -23,7 +23,7 @@ Selain itu, Laravel memiliki dokumentasi yang sangat lengkap dan komunitas yang 
 
 Keamanan juga merupakan salah satu alasan penting mengapa Laravel sering dipilih. Framework ini dilengkapi dengan berbagai mekanisme keamanan bawaan, seperti perlindungan terhadap serangan SQL Injection, Cross-Site Request Forgery (CSRF), dan Cross-Site Scripting (XSS). Dengan adanya fitur-fitur ini, developer tidak perlu khawatir tentang keamanan aplikasi mereka, karena Laravel sudah dirancang untuk melindungi aplikasi dari berbagai ancaman umum di web.
 
-## 1. Sejarah Singkat Laravel
+## 1.3 Sejarah Singkat Laravel
 
 Laravel pertama kali dirilis oleh Taylor Otwell pada tahun 2011 sebagai alternatif dari framework PHP lain yang ada pada saat itu, seperti CodeIgniter. Pada saat itu, Otwell merasa bahwa framework-framework yang ada kurang menyediakan fitur-fitur modern yang dibutuhkan oleh developer untuk membangun aplikasi web yang kompleks dan canggih. Dari kebutuhan inilah lahir Laravel, yang dalam beberapa tahun saja berhasil menjadi salah satu framework PHP yang paling dominan di dunia.
 
