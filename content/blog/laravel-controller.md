@@ -1,3 +1,11 @@
+---
+external: false
+title: Laravel - Pengantar Laravel
+description: Laravel introduction
+date: 2024-10-14
+---
+
+
 # Apa Itu Controller di Laravel? Pengertian dan Contoh Pembuatannya
 
 Controller di Laravel adalah komponen penting dalam pola arsitektur MVC (Model-View-Controller). Controller bertugas untuk mengelola logika aplikasi dan menghubungkan antara model (data) dan view (tampilan). Dengan menggunakan controller, pengelolaan kode menjadi lebih terstruktur dan mudah dipelihara.
