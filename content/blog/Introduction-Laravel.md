@@ -71,9 +71,9 @@ Setelah Laravel terinstal, Anda bisa memulai proyek Anda dengan menambahkan fung
 
 - **Artisan CLI**: Laravel dilengkapi dengan alat command-line interface (CLI) yang disebut Artisan. Dengan Artisan, Anda bisa menjalankan berbagai perintah untuk mengelola proyek Anda, seperti membuat model, controller, dan migrasi basis data.
 
-- Blade Templating Engine: Laravel menggunakan Blade sebagai engine template bawaannya. Blade memungkinkan Anda untuk membuat tampilan dengan kode PHP yang bersih dan mudah dibaca. Blade juga mendukung fitur seperti template inheritance, yang memudahkan Anda untuk mengelola struktur tampilan yang kompleks.
+- **Blade Templating Engine**: Laravel menggunakan Blade sebagai engine template bawaannya. Blade memungkinkan Anda untuk membuat tampilan dengan kode PHP yang bersih dan mudah dibaca. Blade juga mendukung fitur seperti template inheritance, yang memudahkan Anda untuk mengelola struktur tampilan yang kompleks.
 
-- Eloquent ORM: Laravel menyediakan Eloquent sebagai Object-Relational Mapping (ORM) untuk berinteraksi dengan database. Dengan Eloquent, Anda bisa mengelola data database Anda menggunakan model PHP, tanpa harus menulis kueri SQL secara langsung.
+- **Eloquent ORM**: Laravel menyediakan Eloquent sebagai Object-Relational Mapping (ORM) untuk berinteraksi dengan database. Dengan Eloquent, Anda bisa mengelola data database Anda menggunakan model PHP, tanpa harus menulis kueri SQL secara langsung.
 
 Dengan semua fitur dan alat yang disediakan, Laravel memberikan fondasi yang kuat bagi siapa saja yang ingin membangun aplikasi web dengan PHP. Ini membuat Laravel tidak hanya populer di kalangan developer, tetapi juga menjadi salah satu framework yang sangat direkomendasikan bagi pemula yang ingin belajar pengembangan web.
 
