@@ -3,34 +3,45 @@ import Nav from "./Nav.astro";
 import DarkModeToggle from "./DarkModeToggle.astro";
 ---
 
-<header class="">
+<header class="relative z-10 w-full bg-white dark:bg-gray-800">
+  <!-- Skip to Content -->
   <a
-    class="unset absolute z-10 left-[50%] -top-[100rem] translate-x-[-50%] bg-white text-black px-8 py-2 focus:top-[initial]"
+    class="unset absolute z-20 left-1/2 -top-[100rem] transform -translate-x-1/2 bg-white text-black px-4 py-2 focus:top-0 focus:outline-none"
     href="#main"
   >
     Skip to content
   </a>
-  <Nav />
-  <div
-    class="justify-self-end py-2 flex items-center content-center text-text-bold"
-  >
-    <a
-      class="unset ml-4 rounded-sm transition-[background-size] duration-150 ease-in-out bg-left-bottom bg-[length:0%_55%] hover:bg-[length:100%_55%] bg-no-repeat bg-gradient-to-r from-primary-yellow to-primary-yellow dark:bg-none dark:hover:text-primary-yellow"
-      href="https://github.com/muhkelvin"
-    >
-      <i class="fa-brands fa-github" aria-hidden="true" title="Blogster on GitHub"></i>
-      <span>GitHub</span>
-  
+
+  <!-- Navbar -->
+  <nav class="flex items-center justify-between px-4 py-2">
+    <!-- Add your navbar content here -->
+    <Nav />
+    
+    <!-- Social Links & Contact -->
+    <div class="flex items-center space-x-4">
       <a
-      class="unset ml-4 rounded-sm transition-[background-size] duration-150 bg-left-bottom bg-[length:0%_55%] hover:bg-[length:100%_55%] bg-no-repeat bg-gradient-to-r from-primary-blue to-primary-blue dark:bg-none dark:hover:text-primary-blue"
-      href="mailto:muhkelvin36@gmail.com"
-    >
-      <i class="fa-brands fa-envelope" aria-hidden="true" title="Dinesh on Twitter"></i>
-      <span>muhkelvin36@gmail.com</span>
-  
+        class="flex items-center space-x-2 text-black dark:text-white hover:text-primary-yellow"
+        href="https://github.com/muhkelvin"
+      >
+        <i class="fa-brands fa-github" aria-hidden="true" title="Blogster on GitHub"></i>
+        <span>GitHub</span>
+      </a>
+      <a
+        class="flex items-center space-x-2 text-black dark:text-white hover:text-primary-blue"
+        href="mailto:muhkelvin36@gmail.com"
+      >
+        <i class="fa-brands fa-envelope" aria-hidden="true" title="Contact"></i>
+        <span>muhkelvin36@gmail.com</span>
+      </a>
+    </div>
+  </nav>
+
+  <!-- Dark Mode Toggle -->
+  <div class="absolute top-2 right-2">
+    <DarkModeToggle />
   </div>
-  <DarkModeToggle />
 </header>
+
 <style>
   header {
     grid-area: header;
