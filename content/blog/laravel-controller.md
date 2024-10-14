@@ -1,6 +1,6 @@
 ---
 external: false
-title: Laravel - Konsep Controller di Laravel
+title: Laravel - 3. Konsep Controller di Laravel
 description: Pelajari konsep controller di Laravel secara mendalam, mulai dari pembuatan controller, penggunaan route resource, dependency injection, middleware, hingga penerapan RESTful controller untuk pengembangan aplikasi dan API yang efisien dan terstruktur.
 date: 2024-10-14
 ---
