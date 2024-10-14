@@ -1,6 +1,6 @@
 ---
 external: false
-title: Laravel - Pengantar Laravel
+title: Laravel - 1. Pengantar Laravel
 description: Laravel introduction
 date: 2024-10-14
 ---
