@@ -1,7 +1,8 @@
 ---
 external: false
 title: Laravel - 6. Konsep Validasi dan Request Handling di Laravel
-description: Pelajari konsep controller di Laravel secara mendalam, mulai dari pembuatan controller, penggunaan route resource, dependency injection, middleware, hingga penerapan RESTful controller untuk pengembangan aplikasi dan API yang efisien dan terstruktur.
+description: Pelajari konsep validasi dan request handling di Laravel secara mendalam, mulai dari request dan response, validasi data input, penggunaan Form Request, custom validation, hingga penanganan file upload dan error handling. Temukan tips dan trik untuk membangun aplikasi web yang aman dan terstruktur dengan Laravel.
+
 date: 2024-10-14
 ---
 
